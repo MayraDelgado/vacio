@@ -1,0 +1,21 @@
+{
+  "name": "presentacion",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "presentacion.html",
+    "path": "",
+    "menuName": {
+      "en": "prebayoaddin"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "presentacion",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
